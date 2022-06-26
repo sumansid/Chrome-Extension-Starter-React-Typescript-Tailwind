@@ -2,6 +2,8 @@
 
 Chrome Extension, React + TypeScript + TailWind CSS
 
+Initial React + Typescript starter (without Tailwind) : [https://github.com/chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter)
+
 ## Prerequisites
 
 - [node + npm](https://nodejs.org/) (Current Version)
@@ -27,9 +29,6 @@ Chrome Extension, React + TypeScript + TailWind CSS
 npm install
 ```
 
-## Import as Visual Studio Code project
-
-...
 
 ## Build
 
@@ -38,8 +37,6 @@ npm run build
 ```
 
 ## Build in watch mode
-
-### terminal
 
 ```
 npm run watch
